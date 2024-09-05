@@ -1,0 +1,2 @@
+# PSTheme
+Prestashop Theme
